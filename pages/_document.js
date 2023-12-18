@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <title>Akshay&apos;s Portfolio</title>
+      <title>Krishnapriya&apos;s Portfolio</title>
       <body>
         <Main />
         <NextScript />

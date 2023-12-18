@@ -3,16 +3,16 @@ import { AiOutlineShareAlt } from 'react-icons/ai';
 
 const CustomFab = () => {
     const handleShare = async () => {
-
+        const currUrl = window.location.href;
         
         // Check if the Web Share API is available
         if (navigator.share) {
           try {
             // Web Share API call
             await navigator.share({
-              title: "Portfolio of Mr. Akshay Manoj",
+              title: "Portfolio of Ms. Krishnapriya Radhakrishnan",
               text: "Check out this amazing portfolio",
-              url:"https://stark-akshay.github.io/akshaymanoj.github.io/",
+              url:currUrl,
              
             });
             console.log("Content shared successfully!");

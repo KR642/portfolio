@@ -1,6 +1,6 @@
 import React from 'react';
 import {MdEmail} from 'react-icons/md';
-import {AiFillInstagram, AiFillLinkedin} from 'react-icons/ai'
+import {AiFillLinkedin} from 'react-icons/ai'
 const ContactMe = () => {
   return (
     <section>
@@ -10,21 +10,15 @@ const ContactMe = () => {
         <div className='flex flex-col items-center'>
             <div className='flex flex-col justify-center'>
             <div className='flex flex-row justify-start w-full items-center'>
-            <a href="mailto:akshaymanoj.dms@gmail.com?subject=Would%20Love%20to%20hire%20you">  
+            <a href="mailto:rkrishnapriya63@gmail.com?subject=Would%20Love%20to%20hire%20you">  
             <MdEmail className='text-text text-4xl'></MdEmail> </a>
-            <a href="mailto:akshaymanoj.dms@gmail.com?subject=Would%20Love%20to%20hire%20you" > <p className='px-4'>akshaymanoj.dms@gmail.com</p></a>
+            <a href="mailto:rkrishnapriya63@gmail.com?subject=Would%20Love%20to%20hire%20you" > <p className='px-4'>rkrishnapriya63@gmail.com</p></a>
         </div>
 
         <div className='flex flex-row justify-start w-full items-center'>
-            <a href="https://www.instagram.com/oneshortfocus" target="_blank">  
-            <AiFillInstagram className='text-text text-4xl'></AiFillInstagram> </a>
-            <a href="https://www.instagram.com/oneshortfocus" target="_blank"> <p className='px-4'>@oneshortfocus</p></a>
-        </div>
-
-        <div className='flex flex-row justify-start w-full items-center'>
-            <a href="https://www.linkedin.com/in/akshay-manoj-b97144179/" target="_blank">  
+            <a href="https://www.linkedin.com/in/krishnapriya-radhakrishnan/" target="_blank">  
             <AiFillLinkedin className='text-text text-4xl'></AiFillLinkedin> </a>
-            <a href="https://www.linkedin.com/in/akshay-manoj-b97144179/" target="_blank"> <p className='px-4'>Akshay Manoj</p></a>
+            <a href="https://www.linkedin.com/in/krishnapriya-radhakrishnan/" target="_blank"> <p className='px-4'>Krishnapriya Radhakrishnan</p></a>
         </div>
             </div>
         

@@ -28,11 +28,12 @@ module.exports = {
       }
     },
     colors: {
-      'text': '#e9dff1',
-      'background': '#0f041a',
+      'text': '#fff',
+      'background': '#552217',
       'primary': '#9c77c0',
-      'second': '#1c1226',
-      'ascent': '#8254b0',
+      'second': '#174A55',
+      'ascent': '#552217',
+      'specialtext': '#d2d5d9',
      },
      
     fontFamily:{

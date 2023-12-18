@@ -3,9 +3,20 @@
 @tailwind utilities;
 
 :root {
-  background-color: #0f041a;
+  background-color: #552217;
 }
 
+li::after, li::before{
+  background-color: #174A55 !important;
+}
+
+li>div>p{
+  color:white !important;
+}
+
+#soft-skills p{
+text-align: center;
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
