@@ -12,13 +12,13 @@ const ContactMe = () => {
             <div className='flex flex-row justify-start w-full items-center'>
             <a href="mailto:rkrishnapriya63@gmail.com?subject=Would%20Love%20to%20hire%20you">  
             <MdEmail className='text-text text-4xl'></MdEmail> </a>
-            <a href="mailto:rkrishnapriya63@gmail.com?subject=Would%20Love%20to%20hire%20you" > <p className='px-4'>rkrishnapriya63@gmail.com</p></a>
+            <a href="mailto:rkrishnapriya63@gmail.com?subject=Would%20Love%20to%20hire%20you" > <p className='px-4 text-text'>rkrishnapriya63@gmail.com</p></a>
         </div>
 
         <div className='flex flex-row justify-start w-full items-center'>
             <a href="https://www.linkedin.com/in/krishnapriya-radhakrishnan/" target="_blank">  
             <AiFillLinkedin className='text-text text-4xl'></AiFillLinkedin> </a>
-            <a href="https://www.linkedin.com/in/krishnapriya-radhakrishnan/" target="_blank"> <p className='px-4'>Krishnapriya Radhakrishnan</p></a>
+            <a href="https://www.linkedin.com/in/krishnapriya-radhakrishnan/" target="_blank"> <p className='px-4 text-text'>Krishnapriya Radhakrishnan</p></a>
         </div>
             </div>
         

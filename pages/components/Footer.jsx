@@ -5,14 +5,14 @@ const Footer = () => {
   return (
     <footer className="footer p-10 bg-second text-base-content flex w-full min-[320px]:flex-col md:flex-row justify-around">
   <nav>
-    <header className="footer-title">Services</header> 
-    <a className="link link-hover">Web Development</a> 
-    <a className="link link-hover">Project Management</a> 
-    <a className="link link-hover">API Integeration</a> 
+    <header className="footer-title text-text">Services</header> 
+    <a className="link link-hover text-text">Web Development</a> 
+    <a className="link link-hover text-text">Project Management</a> 
+    <a className="link link-hover text-text">API Integeration</a> 
   </nav> 
 
   <nav>
-    <header className="footer-title">Contact Me</header> 
+    <header className="footer-title text-text">Contact Me</header> 
     <div className='flex min-[320px]:flex-col md:flex-row justify-around w-full'>
     <a className='link link-hover' href="mailto:rkrishnapriya63@gmail.com?subject=Would%20Love%20to%20hire%20you" >  
             <MdEmail className='text-text text-4xl'></MdEmail> </a> 
