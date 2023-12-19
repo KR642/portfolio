@@ -23,7 +23,7 @@ const Me = () => {
 
 
       <div className='border-4 border-second flex justify-center items-center h-fit w-[50rem] p-5 m-10 '>
-        <p className='text-text min-[320px]:text-md md:text-xl'>As a skilled web developer, I leverage a diverse tech stack encompassing JavaScript, Python, PHP, and frameworks like ReactJS, NextJS and Django to create user-centric and innovative web applications. With a robust foundation in software development, I've successfully led complex projects and mentored teams. Committed to continuous learning and implementing modern development practices, I am dedicated to contributing to cutting-edge UI design.</p>
+        <p className='text-text min-[320px]:text-md md:text-xl'>As a skilled web developer, I leverage a diverse tech stack encompassing JavaScript, Python, PHP, and frameworks like ReactJS, NextJS and Django to create user-centric and innovative web applications. With a robust foundation in software development, I have successfully led complex projects and mentored teams. Committed to continuous learning and implementing modern development practices, I am dedicated to contributing to cutting-edge UI design.</p>
       </div>
 
 
