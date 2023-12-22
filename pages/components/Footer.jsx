@@ -7,8 +7,8 @@ const Footer = () => {
   <nav>
     <header className="footer-title text-text">Services</header> 
     <a className="link link-hover text-text">Web Development</a> 
-    <a className="link link-hover text-text">Project Management</a> 
-    <a className="link link-hover text-text">API Integeration</a> 
+    <a className="link link-hover text-text">UI/ UX Development</a> 
+    
   </nav> 
 
   <nav>
