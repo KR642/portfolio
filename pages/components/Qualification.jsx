@@ -19,7 +19,7 @@ const Qualification = () => {
             <li data-content='' className="step step-primary">
               <div className='flex flex-col justify-start items-start '>
                 <p className='min-[320px]:text-md md:text-xl'>B.Voc Software Development</p>
-                <p className='min-[320px]:text-sm md:text-md '>St. Teresa`&apos;`s College </p>
+                <p className='min-[320px]:text-sm md:text-md '>St. Teresa&apos;s College </p>
                 <p className='min-[320px]:text-sm md:text-md'>2017-2020</p>
               </div>
             </li>

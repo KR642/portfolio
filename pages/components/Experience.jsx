@@ -36,7 +36,7 @@ const Experience = () => {
 
             <li data-content='' className="step step-primary">
               <div className='flex flex-col justify-start items-start'>
-                <p className='min-[320px]:text-md md:text-xl'>Front End Developer</p>
+                <p className='min-[320px]:text-md md:text-xl'>Web Developer </p>
                 <p className='min-[320px]:text-sm md:text-md'>Tata Consultancy Services</p>
                 <p className='min-[320px]:text-sm md:text-md'>2020-2022</p>
               </div>
