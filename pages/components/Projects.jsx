@@ -43,7 +43,7 @@ const Projects = () => {
           
            code="https://github.com/KR642/ConcertoPython"
            />
-            <Card url="https://unsplash.com/photos/cup-of-brown-coffee-1UKx5_hhFLA" 
+            <Card url="https://images.unsplash.com/photo-1538587888044-79f13ddd7e49?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
           desc1 = "React UI inspired and copied from the 'Coffee shop Landing Page' by Amit Goyani. Build using Vite+React with CSS."
           project = "https://github.com/KR642/Coffee-ReactUI-CSS"
            code="https://kr642.github.io/Coffee-ReactUI-CSS/"
