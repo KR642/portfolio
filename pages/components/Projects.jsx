@@ -31,7 +31,7 @@ const Projects = () => {
           </div>
 
           <div className='flex flex-row flex-wrap  p-10 justify-around'>          
-          <Card url="https://images.unsplash.com/photo-1676907820153-2b61de2b9daf?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="Electronic Health Record System using Blockchain" 
+          <Card url="https://images.unsplash.com/photo-1676907820153-2b61de2b9daf?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" title="Game Inventory using Blockchain" 
           desc1="Crafted a blockchain project using Solidity for smart contracts, React.js for the front end, and Web3, employing Test-Driven Development (TDD) methods with Chai.js. The game inventory and reward system, implementing an ERC20 token standard, features an Initial Coin Offering (ICO) contract on the Ethereum blockchain."
           desc2="This platform incentivizes players with tokens based on performance, enabling them to enhance gameplay by purchasing in-game inventories using tokens. The system, involving game owner, admin, developers, and players, ensures secure transactions and special privileges for admin and owner to pause or unpause transactions for enhanced security."
           code = "https://github.com/KR642/Game-Inventory-ERC20"
@@ -43,7 +43,7 @@ const Projects = () => {
           
            code="https://github.com/KR642/ConcertoPython"
            />
-            <Card url="https://images.unsplash.com/photo-1538587888044-79f13ddd7e49?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+            <Card url="https://images.unsplash.com/photo-1538587888044-79f13ddd7e49?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D       " 
           desc1 = "React UI inspired and copied from the 'Coffee shop Landing Page' by Amit Goyani. Build using Vite+React with CSS."
           project = "https://github.com/KR642/Coffee-ReactUI-CSS"
            code="https://kr642.github.io/Coffee-ReactUI-CSS/"
